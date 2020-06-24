@@ -10,7 +10,7 @@
 
 2:00-2:30 – Introduction to technologies used in this bootcamp
 
-2:30-3:30 - Icebreakers
+2:30-3:30 - Icebreakers breakout
 
 
 **Asynchronous**
@@ -43,7 +43,7 @@ Data Science examples in:
 
 **Asynchronous**
 
--Introdcution to statstics by [Dr. Jeff Leek](http://jtleek.com/index.html)
+-Introduction to statstics by [Dr. Jeff Leek](http://jtleek.com/index.html)
 
 -Introduction to ML/AI (Sara Ranjbar or Marrtin)
 
