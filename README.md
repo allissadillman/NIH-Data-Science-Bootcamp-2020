@@ -24,7 +24,7 @@ This bootcamp will enable you to:
 * 2:30-3:30 - Icebreakers breakout
 
 
-**Videos to watch before Tuesday's Examples in data science breakout Q & A**
+**Videos to watch before Wednesday's Data Science breakout Q & A**
 
 - Data Science examples, data sources and data sharing communities
  
@@ -50,7 +50,7 @@ This bootcamp will enable you to:
 
 ## Wednesday 8th
 
-* 12:00-12:50 - Examples in data science breakout Q & A
+* 12:00-12:50 - Data Science breakout Q & A
 
 * 1:00-4:00 – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
