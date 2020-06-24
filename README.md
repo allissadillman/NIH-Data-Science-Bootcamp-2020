@@ -60,7 +60,10 @@ Data Science examples in:
 [SEPA programs](https://nihsepa.org/)
 
 -[Dr.Charlie Wray]()
--[Dr.Lamb]()
+
+-[Dr.Neil Lamb]()
+
+-[Dr.Jane Disney]()
 
 Citizen science highlights (Mini-dream high school DS challenge) by Dr.Jennifer Couch
 
