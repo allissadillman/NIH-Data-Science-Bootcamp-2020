@@ -59,9 +59,9 @@ Data Science examples in:
 
 **Asynchronous**
 
-[SEPA programs](https://nihsepa.org/)
+Presentations from [SEPA program] project leaders (https://nihsepa.org/)
 
--[Dr.Charlie Wray](https://youtu.be/ce4nBjAfKKU)
+-[Teaching the Genome Generation](https://youtu.be/ce4nBjAfKKU) by Dr.Charlie Wray]
 
 -[Dr.Neil Lamb](https://youtu.be/yRDknL8YZm4)
 
