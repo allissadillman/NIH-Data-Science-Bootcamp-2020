@@ -26,16 +26,16 @@ This bootcamp will enable you to:
 
 **Videos to watch before Tuesday's Examples in data science breakout Q & A**
 
-- Data Science examples in:
+- Data Science examples, data sources and data sharing communities
  
   - Biology/Bioinformatics by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
 
-  - Other Videos
+  - Data Sources:Exploring publicly available data by [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
 
 
 ## Tuesday 7th
 
-* 12:00-12:50 - Examples in data science breakout Q & A
+* 12:00-12:50 - Introduction to Bioinformatics by Dr. Allissa Dillman
 
 * 1:00-4:00- Galaxy genomics analysis hands-on (Dr. Allissa Dillman, TA: Dr. Amy Stonelake)
 
@@ -45,28 +45,15 @@ This bootcamp will enable you to:
 
 - Introduction to ML/AI (Sara Ranjbar or Marrtin)
 
-- Legal and ethics around ML/AI by Emma Jardas
+- BioEthics of ML/AI by Emma Jardas
 
 
 ## Wednesday 8th
 
-* 12:00-12:50 - Live presenter
+* 12:00-12:50 - Examples in data science breakout Q & A
 
 * 1:00-4:00 – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
-**Videos and Exercises**
-
-- Data Sources:Exploring publicly available data by [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
-
-- Other work problems in R
-
-
-
-## Thursday 9th
-
-* 12:00-12:50 – Stats, ML/AI, ethics panel 
-
-* 1:00-4:00 – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
 **Videos to watch before Friday's SEPA and Citizen Science breakout Q & A**
 
@@ -83,6 +70,16 @@ This bootcamp will enable you to:
   - [Dr.Jane Disney]()
 
 
+
+
+## Thursday 9th
+
+* 12:00-12:50 – Stats, ML/AI, ethics panel 
+
+* 1:00-4:00 – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
+
+**Homework**
+- Other work problems in R
 
 
 ## Friday 10th
