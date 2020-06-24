@@ -17,20 +17,20 @@
 Data Science examples in:
 
 -Biology/Bioinformatics by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
-
+-Other Videos
 
 
 ## Tuesday 7th
 
-12:00-12:50 - DS speaker pannel/breakout
+12:00-12:50 - Examples in data science breakout Q & A
 
 1:00-4:00- Galaxy genomics analysis hands-on (Allissa, TA: Amy Stonelake)
 
 **Asynchronous**
 
-Data Sources: What’s available? (explore NIH pub data). (Lisa Federer NLM)
+-Data Sources: What’s available? (explore NIH pub data). (Lisa Federer NLM)
 
-Other work problems in R
+-Other work problems in R
 
 
 ## Wednesday 8th
@@ -41,11 +41,11 @@ Other work problems in R
 
 **Asynchronous**
 
-Stats intro (Jeff Leek to send recording)
+-Introdcution to statstics by [Dr. Jeff Leek](http://jtleek.com/index.html)
 
-Intro to ML/AI (Sara Ranjbar or Marrtin)
+-Introduction to ML/AI (Sara Ranjbar or Marrtin)
 
-Legal and ethics around ML/AI (Emma Jardas)
+-Legal and ethics around ML/AI by Emma Jardas
 
 
 
@@ -57,11 +57,12 @@ Legal and ethics around ML/AI (Emma Jardas)
 
 **Asynchronous**
 
-SEPA programs (SEPA directors, Charlie Wray and Dr.Lamb sent recordings)
+[SEPA programs](https://nihsepa.org/)
 
-[Dr.Charlie Wray]()
+-[Dr.Charlie Wray]()
+-[Dr.Lamb]()
 
-Citizen science highlights (Mini-dream high school DS challenge) (Jennifer to record)
+Citizen science highlights (Mini-dream high school DS challenge) by Dr.Jennifer Couch
 
 
 
