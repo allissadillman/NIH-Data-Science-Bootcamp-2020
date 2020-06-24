@@ -6,6 +6,7 @@ Hello and welcome to The National Institutes of Health (NIH) Data Science for Sc
 This workshop will provide hands-on training for data science tools commonly used by the biomedical research community and  informational videos on data science topics.  
 
 This bootcamp will enable you to:
+* Perform analysis with real data using data science techniques
 * Network with and learn from leaders in the data science field
 * Discuss strategies and success stories and form a network of educators across the country
 * Learn about NIH programs that support educational partnerships and STEM programs
