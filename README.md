@@ -59,6 +59,8 @@ Data Science examples in:
 
 **Asynchronous**
 
+Citizen science highlights  by Dr.Jennifer Couch
+
 Presentations from the [SEPA program](https://nihsepa.org/) project leaders 
 
 -[Teaching the Genome Generation](https://youtu.be/ce4nBjAfKKU) by Dr.Charlie Wray
@@ -67,7 +69,7 @@ Presentations from the [SEPA program](https://nihsepa.org/) project leaders
 
 -[Dr.Jane Disney]()
 
-Citizen science highlights (Mini-dream high school DS challenge) by Dr.Jennifer Couch
+
 
 
 
