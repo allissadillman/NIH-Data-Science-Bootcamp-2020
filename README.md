@@ -57,7 +57,8 @@ Legal and ethics around ML/AI (Emma Jardas)
 **Asynchronous**
 
 SEPA programs (SEPA directors, Charlie Wray and Dr.Lamb sent recordings)
-[link to Google!](https://drive.google.com/file/d/1DevJ12zL27EgPtH6zovpHUmZUP5LSePK/view?usp=sharing)
+
+[Dr.Charlie Wray]()
 
 Citizen science highlights (Mini-dream high school DS challenge) (Jennifer to record)
 
