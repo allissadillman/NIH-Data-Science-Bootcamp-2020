@@ -35,7 +35,7 @@ This bootcamp will enable you to:
 
 ## Tuesday 7th
 
-* 12:00-12:50 - Introduction to Bioinformatics by Dr. Allissa Dillman
+* 12:00-12:50 - Data Science and the community live presentation by Dr. Anton Nekrutenko 
 
 * 1:00-4:00- Galaxy genomics analysis hands-on (Dr. Allissa Dillman, TA: Dr. Amy Stonelake)
 
