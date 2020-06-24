@@ -87,10 +87,10 @@ This bootcamp will enable you to:
 ## Friday 10th
 * 12:00-12:50 – SEPA and Citizen Science breakout Q & A
 
-* 1:00-1:50 - NIH training programs and scholarships 
-  * [HIGH SCHOOL SCIENTIFIC TRAINING AND ENRICHMENT PROGRAM (HISTEP)](https://www.training.nih.gov/histep) by Dr. Kristen Zukosky
-  * [UNDERGRADUATE SCHOLARSHIP PROGRAM (UGSP)](https://www.training.nih.gov/programs/ugsp) by Dr. Darryl  Murray
-  * [SUMMER INTERNSHIP PROGRAM IN BIOMEDICAL RESEARCH (SIP)](https://www.training.nih.gov/programs/sip) by Dr. Yewon Cheon
+* 1:00-1:50 - NIH training programs, scholarships and internships 
+  * [High School Scientific Training and Enrichment Program (HISTEP)](https://www.training.nih.gov/histep) by Dr. Kristen Zukosky
+  * [Undergraduate Scholarship Program (UGSP)](https://www.training.nih.gov/programs/ugsp) by Dr. Darryl  Murray
+  * [Summer Internship Program in Biomedical Research (SIP)](https://www.training.nih.gov/programs/sip) by Dr. Yewon Cheon
 
 * 2:00-2:50 – Bootcamp: Group Discussion, what did we learn?
 
