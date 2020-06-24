@@ -13,7 +13,7 @@
 2:30-3:30 - Icebreakers breakout
 
 
-**Asynchronous**
+**To be done before Tuesday's Examples in data science breakout Q & A**
 
 Data Science examples in:
 
