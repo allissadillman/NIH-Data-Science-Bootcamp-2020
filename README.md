@@ -82,8 +82,8 @@ This bootcamp will enable you to:
 - Other work problems in R
 - Novel learning methods videos:  
   - [Science education games example](http://www.molecularjig.com/about/)
-  - [Solving programming puzzles through an animated series.](https://www.ted.com/talks/alex_rosenthal_the_prison_break_think_like_a_coder_ep_1)
-
+  - [Solving programming puzzles through an animated series](https://www.ted.com/talks/alex_rosenthal_the_prison_break_think_like_a_coder_ep_1)
+  - [Bodystorming: combine dance and science](https://umedia.lib.umn.edu/item/p16022coll262:584?facets%5Bcollection_name_s%5D%5B%5D=IAS+Programming&page=50)
 
 ## Friday 10th
 * 12:00-12:50 – SEPA and Citizen Science breakout Q & A
