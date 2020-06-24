@@ -75,8 +75,8 @@
 ## Friday 10th
 * 12:00-12:50 – SEPA and Citizen Science breakout Q & A
 
-* 1:00-1:50 - Resources and programs for their students 
-  * HISTEP by Dr. Kristen Zukosky
+* 1:00-1:50 - NIH training programs and scholarships 
+  * [HIGH SCHOOL SCIENTIFIC TRAINING AND ENRICHMENT PROGRAM (HISTEP)](https://www.training.nih.gov/histep) by Dr. Kristen Zukosky
   * UGSP by Dr. Darryl  Murray
   * SIP by Dr. Yewon Cheon
 
