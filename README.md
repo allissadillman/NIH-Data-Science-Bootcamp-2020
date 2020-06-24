@@ -16,7 +16,6 @@
 **Videos to watch before Tuesday's Examples in data science breakout Q & A**
 
 -Data Science examples in:
-
  -Biology/Bioinformatics by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
 
  -Other Videos
