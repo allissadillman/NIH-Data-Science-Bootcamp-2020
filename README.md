@@ -77,8 +77,8 @@
 
 * 1:00-1:50 - NIH training programs and scholarships 
   * [HIGH SCHOOL SCIENTIFIC TRAINING AND ENRICHMENT PROGRAM (HISTEP)](https://www.training.nih.gov/histep) by Dr. Kristen Zukosky
-  * UGSP by Dr. Darryl  Murray
-  * SIP by Dr. Yewon Cheon
+  * [UNDERGRADUATE SCHOLARSHIP PROGRAM (UGSP)](https://www.training.nih.gov/programs/ugsp) by Dr. Darryl  Murray
+  * [SUMMER INTERNSHIP PROGRAM IN BIOMEDICAL RESEARCH (SIP)](https://www.training.nih.gov/programs/sip) by Dr. Yewon Cheon
 
 * 2:00-2:50 – Bootcamp: Group Discussion, what did we learn?
 
