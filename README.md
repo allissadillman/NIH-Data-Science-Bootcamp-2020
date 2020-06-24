@@ -30,7 +30,7 @@ Data Science examples in:
 
 **Asynchronous**
 
--Data Sources:Exploring publicly available data by Dr. Lisa Federer NLM
+-Data Sources:Exploring publicly available data by [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
 
 -Other work problems in R
 
