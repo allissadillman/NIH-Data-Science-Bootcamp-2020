@@ -14,8 +14,9 @@
 
 
 **Asynchronous**
+Data Science examples in:
 
-Biology (Miranda Darby)
+-Biology/Bioinformatics by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
 
 
 
