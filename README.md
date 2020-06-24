@@ -13,18 +13,20 @@
 2:30-3:30 - Icebreakers
 
 
-**Videos:**
+**Asynchronous**
 
 Biology (Miranda Darby)
 
 
 
 ## Tuesday 7th
+
 12:00-12:50 - DS speaker pannel/breakout
 
 1:00-4:00- Galaxy genomics analysis hands-on (Allissa, TA: Amy Stonelake)
 
-**Videos** 
+**Asynchronous**
+
 Data Sources: What’s available? (explore NIH pub data). (Lisa Federer NLM)
 
 Other work problems in R
@@ -36,9 +38,12 @@ Other work problems in R
 
 1:00-4:00 – Hands on R (Allissa, TA Wyn)
 
-**Video:**
+**Asynchronous**
+
 Stats intro (Jeff Leek to send recording)
+
 Intro to ML/AI (Sara Ranjbar or Marrtin)
+
 Legal and ethics around ML/AI (Emma Jardas)
 
 
@@ -49,8 +54,10 @@ Legal and ethics around ML/AI (Emma Jardas)
 
 1:00-4:00 – Hands on R (Allissa, TA Wyn)
 
-**Videos:**
+**Asynchronous**
+
 SEPA programs (SEPA directors, Charlie Wray and Dr.Lamb sent recordings)
+
 Citizen science highlights (Mini-dream high school DS challenge) (Jennifer to record)
 
 
