@@ -1,1 +1,1 @@
-[AwesomeLogo](images/logo.png)
+![AwesomeLogo](images/logo.png)
