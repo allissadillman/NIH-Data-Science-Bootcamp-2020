@@ -4,22 +4,22 @@
 ## Monday 6th
 
 
-12:00-12:50- Introduction to bootcamp and goals 
+* 12:00-12:50- Introduction to bootcamp and goals 
 
-1:00-1:50 – Introduction to data science by [Dr. Susan Gregurick](https://datascience.nih.gov/director)
+* 1:00-1:50 – Introduction to data science by [Dr. Susan Gregurick](https://datascience.nih.gov/director)
 
-2:00-2:30 – Introduction to technologies used in this bootcamp
+* 2:00-2:30 – Introduction to technologies used in this bootcamp
 
-2:30-3:30 - Icebreakers breakout
+* 2:30-3:30 - Icebreakers breakout
 
 
 **Videos to watch before Tuesday's Examples in data science breakout Q & A**
 
-Data Science examples in:
+-Data Science examples in:
 
--Biology/Bioinformatics by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
+ -Biology/Bioinformatics by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
 
--Other Videos
+ -Other Videos
 
 
 ## Tuesday 7th
