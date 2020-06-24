@@ -75,7 +75,10 @@
 ## Friday 10th
 * 12:00-12:50 – SEPA and Citizen Science breakout Q & A
 
-* 1:00-1:50 - Resources and programs for their students (Kristen (HISTEP),Darryl (UGSP), Yewon SIP)
+* 1:00-1:50 - Resources and programs for their students 
+  * HISTEP by Dr. Kristen Zukosky
+  * UGSP by Dr. Darryl  Murray
+  * SIP by Dr. Yewon Cheon
 
 * 2:00-2:50 – Bootcamp: Group Discussion, what did we learn?
 
