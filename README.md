@@ -38,11 +38,13 @@ This bootcamp will enable you to:
 
 * 1:00-4:00- Galaxy genomics analysis hands-on (Dr. Allissa Dillman, TA: Dr. Amy Stonelake)
 
-**Videos to watch before Wednesday's Presentation**
+**Videos to watch before Thursday's Stats, ML/AI, ethics panel**
 
-- Data Sources:Exploring publicly available data by [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
+- Introduction to statstics by [Dr. Jeff Leek](http://jtleek.com/index.html)
 
-- Other work problems in R
+- Introduction to ML/AI (Sara Ranjbar or Marrtin)
+
+- Legal and ethics around ML/AI by Emma Jardas
 
 
 ## Wednesday 8th
@@ -51,13 +53,11 @@ This bootcamp will enable you to:
 
 * 1:00-4:00 – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
-**Videos to watch before Thursday's Stats, ML/AI, ethics panel**
+**Videos and Exercises**
 
-- Introduction to statstics by [Dr. Jeff Leek](http://jtleek.com/index.html)
+- Data Sources:Exploring publicly available data by [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
 
-- Introduction to ML/AI (Sara Ranjbar or Marrtin)
-
-- Legal and ethics around ML/AI by Emma Jardas
+- Other work problems in R
 
 
 
