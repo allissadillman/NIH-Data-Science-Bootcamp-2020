@@ -57,7 +57,7 @@ This bootcamp will enable you to:
 
 **Videos to watch before Friday's SEPA and Citizen Science breakout Q & A**
 
-- [Citizen science highlights](https://citscibio.org/) by Dr.Jennifer Couch 
+- [Citizen science overview](https://citscibio.org/) by Dr.Jennifer Couch 
   
   - (Watch first as it will give an overview of the SEPA program)
 
