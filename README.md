@@ -60,7 +60,8 @@
 **Videos to watch before Friday's SEPA and Citizen Science breakout Q & A**
 
 - [Citizen science highlights](https://citscibio.org/) by Dr.Jennifer Couch 
-  -(Watch first as it will give an overview of the SEPA program)
+  
+  - (Watch first as it will give an overview of the SEPA program)
 
 - Presentations from the [SEPA program](https://nihsepa.org/) project leaders 
 
