@@ -43,9 +43,9 @@ This bootcamp will enable you to:
 
 - Introduction to statstics by [Dr. Jeff Leek](http://jtleek.com/index.html)
 
-- Introduction to ML/AI (Sara Ranjbar or Marrtin)
+- Introduction to ML/AI by Dr. Sara Ranjbar 
 
-- BioEthics of ML/AI by Emma Jardas
+- Bioethics of ML/AI by Emma Jardas
 
 
 ## Wednesday 8th
