@@ -59,9 +59,9 @@ Data Science examples in:
 
 [SEPA programs](https://nihsepa.org/)
 
--[Dr.Charlie Wray]()
+-[Dr.Charlie Wray](https://youtu.be/ce4nBjAfKKU)
 
--[Dr.Neil Lamb]()
+-[Dr.Neil Lamb](https://youtu.be/yRDknL8YZm4)
 
 -[Dr.Jane Disney]()
 
