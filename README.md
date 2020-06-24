@@ -78,8 +78,11 @@ This bootcamp will enable you to:
 
 * 1:00-4:00 – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
-**Homework**
+**Optional**
 - Other work problems in R
+- Novel learning methods videos:  
+  - [Science education games example](http://www.molecularjig.com/about/)
+  - [Solving programming puzzles through an animated series.](https://www.ted.com/talks/alex_rosenthal_the_prison_break_think_like_a_coder_ep_1)
 
 
 ## Friday 10th
