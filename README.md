@@ -79,4 +79,8 @@
 
 * 2:00-2:50 – Bootcamp: Group Discussion, what did we learn?
 
-* 3:00-4:00 – Meeting outcomes: Future opportunities, collaborations handing over slack channel and discussion of adding resources to github.
+* 3:00-4:00 – Meeting outcomes: 
+  * Future opportunities
+  * Collaborations 
+  * Slack channel management 
+  * Resource sharing on github
