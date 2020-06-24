@@ -6,7 +6,7 @@
 
 12:00-12:50- Introduction to bootcamp and goals 
 
-1:00-1:50 – Introduction to data science by Susan Gregurick
+1:00-1:50 – Introduction to data science by Dr. Susan Gregurick
 
 2:00-2:30 – Introduction to technologies used in this bootcamp
 
@@ -26,11 +26,11 @@ Data Science examples in:
 
 12:00-12:50 - Examples in data science breakout Q & A
 
-1:00-4:00- Galaxy genomics analysis hands-on (Allissa, TA: Amy Stonelake)
+1:00-4:00- Galaxy genomics analysis hands-on (Dr. Allissa Dillman, TA: Dr. Amy Stonelake)
 
 **Asynchronous**
 
--Data Sources: What’s available? (explore NIH pub data). (Lisa Federer NLM)
+-Data Sources:Exploring publicly available data by Dr. Lisa Federer NLM
 
 -Other work problems in R
 
@@ -39,7 +39,7 @@ Data Science examples in:
 
 12:00-12:50 - Live presenter
 
-1:00-4:00 – Hands on R (Allissa, TA Wyn)
+1:00-4:00 – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer )
 
 **Asynchronous**
 
