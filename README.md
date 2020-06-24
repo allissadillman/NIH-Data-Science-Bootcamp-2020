@@ -1,5 +1,15 @@
 ![AwesomeLogo](images/logo.png)
 
+# Course Overview
+Hello and welcome to The National Institutes of Health (NIH) Data Science for Science Teachers Boot Camp. This is course is a broad and well rounded training course designed specifically for you to learn data science techniques and to facilitate integration of this highly desired, cutting-edge skill set in your students’ coursework.
+
+This workshop will provide hands-on training for data science tools commonly used by the biomedical research community and  informational videos on data science topics.  
+
+This bootcamp will enable you to:
+* Network with and learn from leaders in the data science field
+* Discuss strategies and success stories and form a network of educators across the country
+* Learn about NIH programs that support educational partnerships and STEM programs
+
 
 ## Monday 6th
 
