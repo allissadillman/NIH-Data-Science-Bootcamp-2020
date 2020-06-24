@@ -13,6 +13,7 @@
 2:30-3:30 - Icebreakers
 
 
+
 **Asynchronous**
 
 Biology (Miranda Darby)
@@ -24,6 +25,7 @@ Biology (Miranda Darby)
 12:00-12:50 - DS speaker pannel/breakout
 
 1:00-4:00- Galaxy genomics analysis hands-on (Allissa, TA: Amy Stonelake)
+
 
 **Asynchronous**
 
@@ -37,6 +39,7 @@ Other work problems in R
 12:00-12:50 - Live presenter
 
 1:00-4:00 – Hands on R (Allissa, TA Wyn)
+
 
 **Asynchronous**
 
@@ -53,6 +56,7 @@ Legal and ethics around ML/AI (Emma Jardas)
 12:00-12:50 – Stats, ML/AI, ethics panel 
 
 1:00-4:00 – Hands on R (Allissa, TA Wyn)
+
 
 **Asynchronous**
 
