@@ -77,7 +77,7 @@ This bootcamp will enable you to:
 
 ## Thursday 9th
 
-* 12:00-12:50 EST – Stats, ML/AI, ethics panel 
+* 12:00-12:50 EST – Stats, ML/AI, Bioethics panel 
 
 * 1:00-4:00 EST – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
