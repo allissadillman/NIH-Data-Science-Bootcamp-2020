@@ -70,7 +70,7 @@ This bootcamp will enable you to:
 
   - [Informatics and Data Science Projects at HudsonAlpha](https://youtu.be/yRDknL8YZm4) by Dr. Neil Lamb and team 
 
-  - [Dr.Jane Disney]()
+  - All about arsenic by [Dr.Jane Disney]
 
 
 
