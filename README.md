@@ -25,12 +25,14 @@ This bootcamp will enable you to:
 * 2:30-3:30 EST - Icebreakers breakout
 
 
-**Videos to watch before Wednesday's Data Science breakout Q & A**
+**Videos to watch before Wednesday's Data Science and data sources breakout Q & A**
 
-- Data Science examples, data sources and data sharing communities
+- Data Science and data sources examples: 
  
   - Biology/Bioinformatics by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
 
+  - Geophysics by [Karianne Bergen](https://www.kariannebergen.com/)
+  
   - Data Sources:Exploring publicly available data by [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
 
 
@@ -51,7 +53,7 @@ This bootcamp will enable you to:
 
 ## Wednesday 8th
 
-* 12:00-12:50 EST - Data Science breakout Q & A
+* 12:00-12:50 EST - Data Science breakout and data sources Q & A
 
 * 1:00-4:00 EST – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
