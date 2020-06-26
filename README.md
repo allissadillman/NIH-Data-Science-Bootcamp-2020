@@ -31,7 +31,7 @@ This bootcamp will enable you to:
  
   - Biology/Bioinformatics by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
 
-  - Geophysics by [Karianne Bergen](https://www.kariannebergen.com/)
+  - Geophysics by [Dr. Karianne Bergen](https://www.kariannebergen.com/)
   
   - Data Sources:Exploring publicly available data by [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
 
