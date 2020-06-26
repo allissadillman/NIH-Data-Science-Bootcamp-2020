@@ -11,6 +11,7 @@ This bootcamp will enable you to:
 * Discuss strategies and success stories and form a network of educators across the country
 * Learn about NIH programs that support educational partnerships and STEM programs
 
+*Note: All times are in EST to see your time zone use this calculator: https://www.timeanddate.com/worldclock/converter.html
 
 ## Monday 6th
 
