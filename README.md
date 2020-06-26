@@ -16,13 +16,13 @@ This bootcamp will enable you to:
 ## Monday 6th
 
 
-* 12:00-12:50- Introduction to bootcamp and goals 
+* 12:00-12:50 EST- Introduction to bootcamp and goals 
 
-* 1:00-1:50 – Introduction to data science by [Dr. Susan Gregurick](https://datascience.nih.gov/director)
+* 1:00-1:50 EST – Introduction to data science by [Dr. Susan Gregurick](https://datascience.nih.gov/director)
 
-* 2:00-2:30 – Introduction to technologies used in this bootcamp
+* 2:00-2:30 EST – Introduction to technologies used in this bootcamp
 
-* 2:30-3:30 - Icebreakers breakout
+* 2:30-3:30 EST - Icebreakers breakout
 
 
 **Videos to watch before Wednesday's Data Science breakout Q & A**
@@ -36,9 +36,9 @@ This bootcamp will enable you to:
 
 ## Tuesday 7th
 
-* 12:00-12:50 - Data Science and the community live presentation by Dr. Anton Nekrutenko 
+* 12:00-12:50 EST - Data Science and the community live presentation by Dr. Anton Nekrutenko 
 
-* 1:00-4:00- Galaxy genomics analysis hands-on (Dr. Allissa Dillman, TA: Dr. Amy Stonelake)
+* 1:00-4:00 EST - Galaxy genomics analysis hands-on (Dr. Allissa Dillman, TA: Dr. Amy Stonelake)
 
 **Videos to watch before Thursday's Stats, ML/AI, ethics panel**
 
@@ -51,9 +51,9 @@ This bootcamp will enable you to:
 
 ## Wednesday 8th
 
-* 12:00-12:50 - Data Science breakout Q & A
+* 12:00-12:50 EST - Data Science breakout Q & A
 
-* 1:00-4:00 – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
+* 1:00-4:00 EST – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
 
 **Videos to watch before Friday's SEPA and Citizen Science breakout Q & A**
@@ -75,9 +75,9 @@ This bootcamp will enable you to:
 
 ## Thursday 9th
 
-* 12:00-12:50 – Stats, ML/AI, ethics panel 
+* 12:00-12:50 EST – Stats, ML/AI, ethics panel 
 
-* 1:00-4:00 – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
+* 1:00-4:00 EST – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
 **Optional**
 - Other work problems in R
@@ -87,16 +87,16 @@ This bootcamp will enable you to:
   - [Bodystorming: combine dance and science](https://umedia.lib.umn.edu/item/p16022coll262:584?facets%5Bcollection_name_s%5D%5B%5D=IAS+Programming&page=50)
 
 ## Friday 10th
-* 12:00-12:50 – SEPA and Citizen Science breakout Q & A
+* 12:00-12:50 EST – SEPA and Citizen Science breakout Q & A
 
-* 1:00-1:50 - NIH training programs, scholarships and internships 
+* 1:00-1:50 EST - NIH training programs, scholarships and internships 
   * [High School Scientific Training and Enrichment Program (HISTEP)](https://www.training.nih.gov/histep) by Dr. Kristen Zukosky
   * [Undergraduate Scholarship Program (UGSP)](https://www.training.nih.gov/programs/ugsp) by Dr. Darryl  Murray
   * [Summer Internship Program in Biomedical Research (SIP)](https://www.training.nih.gov/programs/sip) by Dr. Yewon Cheon
 
-* 2:00-2:50 – Bootcamp: Group Discussion, what did we learn?
+* 2:00-2:50 EST – Bootcamp: Group Discussion, what did we learn?
 
-* 3:00-4:00 – Meeting outcomes: 
+* 3:00-4:00 EST – Meeting outcomes: 
   * Future opportunities
   * Collaborations 
   * Slack channel management 
