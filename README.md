@@ -29,7 +29,7 @@ This bootcamp will enable you to:
 
 - Data Science and data sources examples: 
  
-  - Biology/Bioinformatics by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
+  - [Biology/Bioinformatics](https://livehood-my.sharepoint.com/:v:/g/personal/darby_hood_edu/EaeNLhsFxEdMl9xfEsrxnZYB-63NZbqGht-7hs4rGX_WOA) by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
 
   - Geophysics by [Dr. Karianne Bergen](https://www.kariannebergen.com/)
   
