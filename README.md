@@ -44,7 +44,7 @@ This bootcamp will enable you to:
 
 **Videos to watch before Thursday's Stats, ML/AI, ethics panel**
 
-- Introduction to statstics by [Dr. Jeff Leek](http://jtleek.com/index.html)
+- Why you should care about statistics by [Dr. Jeff Leek](http://jtleek.com/index.html)
 
 - Introduction to ML/AI by Dr. Sara Ranjbar 
 
