@@ -29,7 +29,7 @@ This bootcamp will enable you to:
 
 - Data Science and data sources examples: 
  
-  - [Biology to Data Science:a Voyage of Discovery](https://livehood-my.sharepoint.com/:v:/g/personal/darby_hood_edu/EaeNLhsFxEdMl9xfEsrxnZYB-63NZbqGht-7hs4rGX_WOA) by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
+  - [Biology to Data Science:A Voyage of Discovery](https://livehood-my.sharepoint.com/:v:/g/personal/darby_hood_edu/EaeNLhsFxEdMl9xfEsrxnZYB-63NZbqGht-7hs4rGX_WOA) by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
 
   - Geophysics by [Dr. Karianne Bergen](https://www.kariannebergen.com/)
   
@@ -78,7 +78,7 @@ This bootcamp will enable you to:
 ## Thursday 9th
 
 * 12:00-12:50 EST – Stats, ML/AI, Bioethics panel 
-
+  * [Dr.Arjun Krishnan](www.thekrishnanlab.org) will be  the ML panelist
 * 1:00-4:00 EST – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
 **Optional**
