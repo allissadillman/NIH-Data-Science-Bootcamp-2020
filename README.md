@@ -62,7 +62,7 @@ This bootcamp will enable you to:
 
 **Videos to watch before Friday's SEPA and Citizen Science breakout Q & A**
 
-- [Citizen science overview](https://citscibio.org/) by Dr.Jennifer Couch 
+- [Citizen science overview](https://citscibio.org/) by Dr. Jennifer Couch 
   
   - (Watch first as it will give an overview of the SEPA program)
 
@@ -72,7 +72,7 @@ This bootcamp will enable you to:
 
   - [Informatics and Data Science Projects at HudsonAlpha](https://youtu.be/yRDknL8YZm4) by Dr. Neil Lamb and team 
 
-  - All about arsenic by [Dr.Jane Disney]
+  - All about arsenic by Dr.Jane Disney
 
 
 
@@ -80,7 +80,7 @@ This bootcamp will enable you to:
 ## Thursday 9th
 
 * 12:00-12:50 EST – Stats, ML/AI, Bioethics panel 
-  * With [Dr. Jeff Leek](http://jtleek.com/index.html), [Dr.Arjun Krishnan](www.thekrishnanlab.org),E Jardas
+  * With: [Dr. Jeff Leek](http://jtleek.com/index.html), [Dr.Arjun Krishnan](www.thekrishnanlab.org), E Jardas
 * 1:00-4:00 EST – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
 **Optional**
@@ -92,7 +92,7 @@ This bootcamp will enable you to:
 
 ## Friday 10th
 * 12:00-12:50 EST – SEPA and Citizen Science breakout Q & A
-
+  * With: Dr. Jennifer Couch, Dr.Charlie Wray, Dr. Neil Lamb, Dr.Jane Disney
 * 1:00-1:50 EST - NIH training programs, scholarships and internships 
   * [High School Scientific Training and Enrichment Program (HISTEP)](https://www.training.nih.gov/histep) by Dr. Kristen Zukosky
   * [Undergraduate Scholarship Program (UGSP)](https://www.training.nih.gov/programs/ugsp) by Dr. Darryl  Murray
