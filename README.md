@@ -68,11 +68,11 @@ This bootcamp will enable you to:
 
 - Presentations from the [SEPA program](https://nihsepa.org/) project leaders 
 
-  - [Teaching the Genome Generation](https://youtu.be/ce4nBjAfKKU) by Dr.Charlie Wray
+  - [Teaching the Genome Generation](https://youtu.be/ce4nBjAfKKU) by Dr. Charlie Wray
 
   - [Informatics and Data Science Projects at HudsonAlpha](https://youtu.be/yRDknL8YZm4) by Dr. Neil Lamb and team 
 
-  - All about arsenic by Dr.Jane Disney
+  - All about arsenic by Dr. Jane Disney
 
 
 
@@ -92,7 +92,7 @@ This bootcamp will enable you to:
 
 ## Friday 10th
 * 12:00-12:50 EST – SEPA and Citizen Science breakout Q & A
-  * With: Dr. Jennifer Couch, Dr.Charlie Wray, Dr. Neil Lamb, Dr.Jane Disney
+  * With: Dr. Jennifer Couch, Dr. Charlie Wray, Dr. Neil Lamb, Dr. Jane Disney
 * 1:00-1:50 EST - NIH training programs, scholarships and internships 
   * [High School Scientific Training and Enrichment Program (HISTEP)](https://www.training.nih.gov/histep) by Dr. Kristen Zukosky
   * [Undergraduate Scholarship Program (UGSP)](https://www.training.nih.gov/programs/ugsp) by Dr. Darryl  Murray
