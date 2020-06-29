@@ -48,7 +48,7 @@ This bootcamp will enable you to:
 
 - Introduction to ML/AI by Dr. Sara Ranjbar 
 
-- Bioethics of ML/AI by Emma Jardas
+- Bioethics of ML/AI by E Jardas
 
 
 ## Wednesday 8th
