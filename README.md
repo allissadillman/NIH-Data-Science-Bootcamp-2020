@@ -55,13 +55,7 @@ This bootcamp will enable you to:
 
 * 12:00-12:50 EST - Data Science breakout and data sources Q & A
   
-  * With:
- 
-  * [Dr. Karianne Bergen](https://www.kariannebergen.com/)
-  
-  * [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
-  
-  * [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
+  * With: [Dr. Karianne Bergen](https://www.kariannebergen.com/), [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby), [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
 
 * 1:00-4:00 EST – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
