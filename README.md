@@ -65,7 +65,7 @@ This bootcamp will enable you to:
 - Citizen science overview by Dr. Jennifer Couch 
   
   - (Watch first as it will give an overview of the SEPA program)
-  - Also check out this [Citizen Science Resource]((https://citscibio.org/)
+  - Also check out this [Citizen Science Resource](https://citscibio.org/)
 
 - Presentations from the [SEPA program](https://nihsepa.org/) project leaders 
 
