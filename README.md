@@ -72,7 +72,7 @@ This bootcamp will enable you to:
 
   - [Informatics and Data Science Projects at HudsonAlpha](https://youtu.be/yRDknL8YZm4) by Dr. Neil Lamb and team 
 
-  - All about arsenic by Dr. Jane Disney
+  - Data to action: a secondary school-based citizen science project to address arsenic contamination of well water by Dr. Jane Disney
 
 
 
