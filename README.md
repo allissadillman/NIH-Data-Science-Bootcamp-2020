@@ -48,7 +48,7 @@ This bootcamp will enable you to:
 
 - Introduction to ML/AI by Dr. Sara Ranjbar 
 
-- Ethics by Design:Toward the Ethics of Machine Learning by E Jardas
+- [Ethics by Design:Toward the Ethics of Machine Learning](https://youtu.be/73ijMwv4RjQ) by E Jardas
 
 
 ## Wednesday 8th
