@@ -31,9 +31,7 @@ This bootcamp will enable you to:
  
   - [Biology to Data Science:A Voyage of Discovery](https://livehood-my.sharepoint.com/:v:/g/personal/darby_hood_edu/EaeNLhsFxEdMl9xfEsrxnZYB-63NZbqGht-7hs4rGX_WOA) by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
 
-  - [Shazam for Earthquakes: How geoscientists are leveraging data science to improve earthquake monitoring capabilities](https://www.youtube.com/watch?v=fAEbEgEgIkM&feature=youtu.be) 
-  
-  by [Dr. Karianne Bergen](https://www.kariannebergen.com/)
+  - [Shazam for Earthquakes: How geoscientists are leveraging data science to improve earthquake monitoring capabilities](https://www.youtube.com/watch?v=fAEbEgEgIkM&feature=youtu.be) by [Dr. Karianne Bergen](https://www.kariannebergen.com/)
   
   - [Data, data everywhere! Exploring publicly available data sources](https://youtu.be/ONdIs0Hl-C8) by [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
 
