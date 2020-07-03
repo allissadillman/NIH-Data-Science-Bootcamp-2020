@@ -46,7 +46,7 @@ This bootcamp will enable you to:
 
 - Why you should care about statistics by [Dr. Jeff Leek](http://jtleek.com/index.html)
 
-- Introduction to ML/AI by Dr. Sara Ranjbar 
+- [Applications of Artificial Intelligenece in Medicine](https://youtu.be/Ivy88YnzqaY) by Dr. Sara Ranjbar 
 
 - [Ethics by Design:Toward the Ethics of Machine Learning](https://youtu.be/73ijMwv4RjQ) by E Jardas
 
