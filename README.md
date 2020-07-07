@@ -44,7 +44,7 @@ This bootcamp will enable you to:
 
 **Videos to watch before Thursday's Stats, ML/AI, ethics panel**
 
-- Why you should care about statistics by [Dr. Jeff Leek](http://jtleek.com/index.html)
+- [Why you should care about statistics](https://www.youtube.com/watch?v=X3wHOTwPnek&feature=youtu.be) by [Dr. Jeff Leek](http://jtleek.com/index.html)
 
 - [Applications of Artificial Intelligenece in Medicine](https://youtu.be/Ivy88YnzqaY) by Dr. Sara Ranjbar 
 
