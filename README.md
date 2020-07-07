@@ -40,7 +40,7 @@ This bootcamp will enable you to:
 
 * 12:00-12:50 EST - Data Science and the community live presentation by Dr. Anton Nekrutenko 
 
-* 1:00-4:00 EST - Galaxy genomics analysis hands-on (Dr. Allissa Dillman, TA: Dr. Amy Stonelake)
+* 1:00-4:00 EST - Galaxy sequencing analysis hands-on (Dr. Allissa Dillman, TA: Dr. Amy Stonelake)
 
 **Videos to watch before Thursday's Stats, ML/AI, ethics panel**
 
@@ -57,7 +57,7 @@ This bootcamp will enable you to:
   
   * With: [Dr. Karianne Bergen](https://www.kariannebergen.com/), [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby), [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
 
-* 1:00-4:00 EST – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
+* 1:00-4:00 EST – RStudio Hands-on (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
 
 **Videos to watch before Friday's SEPA and Citizen Science breakout Q & A**
@@ -82,7 +82,7 @@ This bootcamp will enable you to:
 
 * 12:00-12:50 EST – Stats, ML/AI, Bioethics panel 
   * With: [Dr. Jeff Leek](http://jtleek.com/index.html), [Dr.Arjun Krishnan](www.thekrishnanlab.org),  Dr. Sara Ranjbar, E Jardas
-* 1:00-4:00 EST – Hands on R (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
+* 1:00-4:00 EST – RStudio Hands-on (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
 **Optional**
 - Other work problems in R
