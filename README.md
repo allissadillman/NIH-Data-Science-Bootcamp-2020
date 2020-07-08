@@ -106,3 +106,7 @@ This bootcamp will enable you to:
   * Collaborations 
   * Slack channel management 
   * Resource sharing on github
+
+
+If you would like to continue learning data science skills here is a growing list of Data Science Training Resources: 
+https://github.com/allissadillman/DS-Training-Resources
