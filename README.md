@@ -62,7 +62,7 @@ This bootcamp will enable you to:
 
 **Videos to watch before Friday's SEPA and Citizen Science breakout Q & A**
 
-- Citizen science overview by Dr. Jennifer Couch 
+- [Biomedical Open Innovation: Citizen Science and Crowdsourcing](https://www.youtube.com/watch?v=e4DJn2MSCbM) by Dr. Jennifer Couch 
   
   - (Watch first as it will give an overview of the SEPA program)
   - Also check out this [Citizen Science Resource](https://citscibio.org/)
