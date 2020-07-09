@@ -81,7 +81,7 @@ This bootcamp will enable you to:
 ## Thursday 9th
 
 * 12:00-12:50 EST – Stats, ML/AI, Bioethics panel 
-  * With: [Dr. Jeff Leek](http://jtleek.com/index.html), [Dr.Arjun Krishnan](www.thekrishnanlab.org),  Dr. Sara Ranjbar, E Jardas
+  * With: [Dr. Jeff Leek](http://jtleek.com/index.html),  Dr. Sara Ranjbar, E Jardas
 * 1:00-4:00 EST – RStudio Hands-on (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
 **Optional**
