@@ -8,6 +8,11 @@ summary(pbc)
 install.packages("tidyverse")
 library(tidyverse)
 
+pbc_arrange <- arrange(pbc, age) 
+View(pbc_arrange) 
+pbc_arrange <- arrange(pbc, desc(age))
+View(pbc_arrange)
+
 pbc_select <- select(pbc, sex, stage, age)
 View(pbc_select)
 pbc_select <- select(pbc, -sex, -stage, -age)
