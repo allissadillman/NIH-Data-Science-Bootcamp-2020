@@ -53,7 +53,7 @@ This bootcamp will enable you to:
 
 ## Wednesday 8th
 
-* 12:00-12:50 EdT - Data Science breakout and data sources Q & A
+* 12:00-12:50 EDT - Data Science breakout and data sources Q & A
   
   * With: [Dr. Karianne Bergen](https://www.kariannebergen.com/), [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby), [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
 
@@ -94,7 +94,7 @@ This bootcamp will enable you to:
 ## Friday 10th
 * 12:00-12:50 EDT – SEPA and Citizen Science breakout Q & A
   * With: Dr. Jennifer Couch, Dr. Charlie Wray, Dr. Neil Lamb, Dr. Jane Disney
-* 1:00-1:50 EST - NIH training programs, scholarships and internships 
+* 1:00-1:50 EDT - NIH training programs, scholarships and internships 
   * [High School Scientific Training and Enrichment Program (HISTEP)](https://www.training.nih.gov/histep) by Dr. Kristen Zukosky
   * [Undergraduate Scholarship Program (UGSP)](https://www.training.nih.gov/programs/ugsp) by Dr. Darryl  Murray
   * [Summer Internship Program in Biomedical Research (SIP)](https://www.training.nih.gov/programs/sip) by Dr. Yewon Cheon
