@@ -29,7 +29,7 @@ View(pbc_mutate)
 write.table(pbc_mutate,"pbc_mutate.txt",row.names=F,sep="\t")
 
 
-ave_age <-summarise(pbc, mean = mean(age))
+ave_age <-summarise(pbc, new_col = mean(age))
 View(ave_age)
 
 group_by_sex <- group_by(pbc,sex)
