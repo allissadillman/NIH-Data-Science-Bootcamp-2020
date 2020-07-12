@@ -71,6 +71,9 @@ ggplot(pbc_long , aes(value, color=sex)) + geom_density() +  facet_wrap(vars(key
 
 
 
+install.packages("esquisse")
+library(esquisse)
+
 
 
 exp <- read.table("AMvsEM_deseq2_results.tabular") 
@@ -88,11 +91,6 @@ ggsave("volcano.png", width = 6, height = 4)
 ADAR2KO <-read_csv("ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE70nnn/GSE70588/suppl/GSE70588_ADAR2KO_DESEQ_coutfilter.csv.gz")
 View(ADAR2KO)
 ggplot(data=ADAR2KO, aes(x=log2FoldChange, y=-log10(padj), color=log10(baseMean)))  + geom_point(shape=1, size=1.5) + scale_color_gradient(low="green",high="red")
-
-install.packages("esquisse")
-library(esquisse)
-
-
 
 
 
