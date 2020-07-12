@@ -76,7 +76,7 @@ ggplot(pbc_long , aes(value, color=sex)) + geom_density() +  facet_wrap(vars(key
 exp <- read.table("AMvsEM_deseq2_results.tabular") 
 View(exp)
 
-colnames(exp) <- c("GeneID",	"Basemean",	"log2FC",	"StdErr", "WaldStats", "Pvalue", "Padj")
+colnames(exp) <- c("GeneID","Basemean","log2FC","StdErr","WaldStats","Pvalue","Padj")
 View(exp)
 
 ggplot(data=exp, aes(x=log2FC, y=-log10(Padj), color=log10(Basemean)))  + geom_point(shape=1, size=1.5) + scale_color_gradient(low="green",high="red")
