@@ -59,7 +59,6 @@ ggplot(pbc, aes(x=age, color=sex)) + geom_density()
 
 ggplot(pbc, aes(x=age, y=platelet, color=sex)) + geom_point()
 ggplot(pbc, aes(x=age, y=platelet, size=copper)) + geom_point()
-ggplot(pbc, aes(x=age, y=platelet, color=sex, size=copper, shape=status)) + geom_point()
 ggplot(pbc, aes(x=age, y=platelet, color=sex, size=copper, shape=as.factor(status))) + geom_point()
 
 ggplot(pbc, aes(x=age, y=platelet, color=sex)) + geom_point() + geom_smooth(method=lm)
