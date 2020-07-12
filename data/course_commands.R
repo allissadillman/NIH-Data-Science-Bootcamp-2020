@@ -37,7 +37,7 @@ View(group_by_sex)
 groups(group_by_sex)
 groups(pbc)
 
-pbc_final <- pbc %>% group_by(sex) %>% summarise(mean = mean(age))
+pbc_final <- pbc %>% group_by(sex) %>% summarise(new_col = mean(age))
 View(pbc_final)
 
 
