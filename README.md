@@ -27,7 +27,6 @@ This bootcamp will enable you to:
 
 **Videos to watch before Wednesday's Data Science and data sources breakout Q & A**
 
-- Data Science and data sources examples: 
  
   - [Biology to Data Science:A Voyage of Discovery](https://livehood-my.sharepoint.com/:v:/g/personal/darby_hood_edu/EaeNLhsFxEdMl9xfEsrxnZYB-63NZbqGht-7hs4rGX_WOA) by [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby)
 
