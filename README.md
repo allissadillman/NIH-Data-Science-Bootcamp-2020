@@ -79,7 +79,7 @@ This bootcamp will enable you to:
 
 ## Thursday 9th
 
-* 12:00-12:50 EDT – Stats, ML/AI, Bioethics panel 
+* 12:00-12:50 EDT – [Stats, ML/AI, Bioethics panel](https://youtu.be/umFTB3OA0-M) 
   * With: [Dr. Jeff Leek](http://jtleek.com/index.html),  Dr. Sara Ranjbar, E Jardas
 * 1:00-4:00 EDT – RStudio Hands-on (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
@@ -91,7 +91,7 @@ This bootcamp will enable you to:
   - [Bodystorming: combining dance and science](https://umedia.lib.umn.edu/item/p16022coll262:584?facets%5Bcollection_name_s%5D%5B%5D=IAS+Programming&page=50)
 
 ## Friday 10th
-* 12:00-12:50 EDT – SEPA and [Citizen Science panel](https://youtu.be/aQRyhJ7VqDg)
+* 12:00-12:50 EDT – [SEPA and Citizen Science panel](https://youtu.be/aQRyhJ7VqDg)
   * With: Dr. Jennifer Couch, Dr. Charlie Wray, Dr. Neil Lamb, Dr. Jane Disney
 * 1:00-1:50 EDT - NIH training programs, scholarships and internships 
   * [High School Scientific Training and Enrichment Program (HISTEP)](https://www.training.nih.gov/histep) by Dr. Kristen Zukosky
