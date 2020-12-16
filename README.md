@@ -41,6 +41,7 @@ This bootcamp will enable you to:
 
 * 1:00-4:00 EDT - Galaxy sequencing analysis hands-on (Dr. Allissa Dillman, TA: Dr. Amy Stonelake)
 
+
 **Videos to watch before Thursday's Stats, ML/AI, ethics panel**
 
 - [Why you should care about statistics](https://www.youtube.com/watch?v=X3wHOTwPnek&feature=youtu.be) by [Dr. Jeff Leek](http://jtleek.com/index.html)
