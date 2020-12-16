@@ -37,7 +37,7 @@ This bootcamp will enable you to:
 
 ## Tuesday 7th
 
-* 12:00-12:50 EDT - [Open Software for Biology](https://youtu.be/P1JueMkRzJc) live presentation by Dr. Anton Nekrutenko 
+* 12:00-12:50 EDT - [Open Software for Biology](https://youtu.be/P1JueMkRzJc) live presentation by [Dr. Anton Nekrutenko](https://www.huck.psu.edu/people/anton-nekrutenko) 
 
 * 1:00-4:00 EDT - Galaxy sequencing analysis hands-on (Dr. Allissa Dillman, TA: Dr. Amy Stonelake)
 
