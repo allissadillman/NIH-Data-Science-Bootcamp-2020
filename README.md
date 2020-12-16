@@ -59,7 +59,7 @@ This bootcamp will enable you to:
 * 1:00-4:00 EDT – RStudio Hands-on (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
 
 
-**Videos to watch before Friday's SEPA and Citizen Science breakout Q & A**
+**Videos to watch before Friday's SEPA and Citizen Science panel**
 
 - [Biomedical Open Innovation: Citizen Science and Crowdsourcing](https://www.youtube.com/watch?v=e4DJn2MSCbM) by Dr. Jennifer Couch 
   
@@ -91,7 +91,7 @@ This bootcamp will enable you to:
   - [Bodystorming: combining dance and science](https://umedia.lib.umn.edu/item/p16022coll262:584?facets%5Bcollection_name_s%5D%5B%5D=IAS+Programming&page=50)
 
 ## Friday 10th
-* 12:00-12:50 EDT – SEPA and Citizen Science breakout Q & A
+* 12:00-12:50 EDT – SEPA and [Citizen Science panel](https://youtu.be/aQRyhJ7VqDg)
   * With: Dr. Jennifer Couch, Dr. Charlie Wray, Dr. Neil Lamb, Dr. Jane Disney
 * 1:00-1:50 EDT - NIH training programs, scholarships and internships 
   * [High School Scientific Training and Enrichment Program (HISTEP)](https://www.training.nih.gov/histep) by Dr. Kristen Zukosky
