@@ -58,7 +58,7 @@ This bootcamp will enable you to:
 
 * 1:00-4:00 EDT – RStudio Hands-on (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
  
- -[Rscript](https://github.com/allissadillman/NIH-Data-Science-Bootcamp-2020/blob/master/data/course_commands.R)
+  * [Rscript](https://github.com/allissadillman/NIH-Data-Science-Bootcamp-2020/blob/master/data/course_commands.R)
 
 
 **Videos to watch before Friday's SEPA and Citizen Science panel**
