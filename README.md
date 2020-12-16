@@ -18,7 +18,7 @@ This bootcamp will enable you to:
 
 * 12:00-12:50 EDT- Introduction to bootcamp and goals 
 
-* 1:00-1:50 EDT – NIH and data science by [Dr. Susan Gregurick](https://datascience.nih.gov/director)
+* 1:00-1:50 EDT – [NIH and data science](https://youtu.be/bGnQWZl4Mgs) by [Dr. Susan Gregurick](https://datascience.nih.gov/director)
 
 * 2:00-2:30 EDT – Introduction to technologies used in this bootcamp
 
