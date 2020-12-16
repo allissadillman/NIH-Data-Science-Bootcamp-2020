@@ -57,9 +57,12 @@ This bootcamp will enable you to:
   * With: [Dr. Karianne Bergen](https://www.kariannebergen.com/), [Dr. Miranda Darby](https://www.hood.edu/academics/faculty/miranda-darby), [Dr. Lisa Federer](https://www.nlm.nih.gov/od/osi/osi_staff.html#federer)
 
 * 1:00-4:00 EDT – RStudio Hands-on (Dr. Allissa Dillman, TA: Dr. Wynn Meyer)
- 
+  
+  * [Slides](https://github.com/allissadillman/NIH-Data-Science-Bootcamp-2020/blob/master/presentations/R_NIH_ds_bootcamp.pdf) for this hands-on activity  
+  
   * [Rscript](https://github.com/allissadillman/NIH-Data-Science-Bootcamp-2020/blob/master/data/course_commands.R)
 
+  * [Dataset 1](https://github.com/allissadillman/NIH-Data-Science-Bootcamp-2020/blob/master/data/AMvsEM_deseq2_counts.tabular), [Dataset 2](https://github.com/allissadillman/NIH-Data-Science-Bootcamp-2020/blob/master/data/AMvsEM_deseq2_results.tabular)
 
 **Videos to watch before Friday's SEPA and Citizen Science panel**
 
